@@ -4,7 +4,7 @@ TODO
 
 - [x] Set up GIT
 - [x] list models incl diagram
-- [ ] Create skeleton with express-generator
+- [x] Create skeleton with express-generator
 - [ ] Create MongoDB
 - [ ] Set up schemas and models
 - [ ] Populate db
