@@ -5,7 +5,7 @@ TODO
 - [x] Set up GIT
 - [x] list models incl diagram
 - [x] Create skeleton with express-generator
-- [ ] Create MongoDB
+- [x] Create MongoDB namespace and connection
 - [ ] Set up schemas and models
 - [ ] Populate db
 - [ ] Set up routes and controllers
