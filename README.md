@@ -6,7 +6,7 @@ TODO
 - [x] list models incl diagram
 - [x] Create skeleton with express-generator
 - [x] Create MongoDB namespace and connection
-- [ ] Set up schemas and models
+- [x] Set up schemas and models
 - [ ] Populate db
 - [ ] Set up routes and controllers
 - [ ] Create read views
@@ -20,8 +20,8 @@ Items
 - name: String
 - description: String
 - category: category [0..*]
-- price: Int
-- number_in_stock: Int
+- price: Number, float
+- number_in_stock: Number, Int
 - url: String
 
 Category
