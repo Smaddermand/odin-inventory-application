@@ -7,7 +7,7 @@ TODO
 - [x] Create skeleton with express-generator
 - [x] Create MongoDB namespace and connection
 - [x] Set up schemas and models
-- [ ] Populate db
+- [x] Populate db
 - [ ] Set up routes and controllers
 - [ ] Create read views
 - [ ] Create forms and controllers for CRUD actions
