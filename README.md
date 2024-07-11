@@ -8,7 +8,7 @@ TODO
 - [x] Create MongoDB namespace and connection
 - [x] Set up schemas and models
 - [x] Populate db
-- [ ] Set up routes and controllers
+- [x] Set up routes and controllers
 - [ ] Create read views
 - [ ] Create forms and controllers for CRUD actions
 - [ ] Deploy
